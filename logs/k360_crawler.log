@@ -13300,3 +13300,8 @@
 2026-05-30 00:59:58,775 [k360.real] INFO —   Particulares: 15
 2026-05-30 01:00:00,285 [k360.real] INFO — [Casa SAPO] Lisboa/apartamento pág 36
 2026-05-30 01:00:00,880 [k360.real] INFO —   17 anúncios para verificar
+2026-05-30 01:09:34,799 [httpx] INFO — HTTP Request: GET https://sahmtglrposdarcusgrq.supabase.co/rest/v1/k360_market_scrape_config?select=%2A&limit=1 "HTTP/2 200 OK"
+2026-05-30 01:09:34,897 [httpx] INFO — HTTP Request: POST https://sahmtglrposdarcusgrq.supabase.co/rest/v1/k360_market_scrape_jobs "HTTP/2 201 Created"
+2026-05-30 01:09:34,899 [k360.runner] INFO — 🚀 Job a18e689e-1a48-4ea6-90d5-a1d5490fc797 — Motor: Scrapers directos | ['olx_pt', 'custojusto_pt', 'imovirtual_pt', 'casa_sapo_pt'] | ['Lisboa', 'Cascais', 'Oeiras', 'Amadora', 'Vila Franca de Xira', 'Loures', 'Sintra', 'Odivelas', 'Mafra', 'Almada', 'Barreiro', 'Moita', 'Montijo', 'Seixal', 'Sesimbra', 'Setubal', 'Palmela', 'Alcochete', 'Albufeira', 'Portimao', 'Lagoa', 'Faro', 'Loule', 'Silves', 'Lagos']
+2026-05-30 01:09:35,072 [k360.real] INFO — [OLX Portugal] Lisboa/apartamento pág 1
+2026-05-30 01:09:37,717 [k360.real] INFO —   19 anúncios para verificar
